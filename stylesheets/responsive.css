@@ -1,0 +1,488 @@
+
+@media  (max-width: 1024px) {
+  /* ipad landscape */
+
+	  .txtmain {
+	    position: absolute;
+	width: 40%;
+	height: 3.34%;
+	left: 30.29%;
+	top:8%;
+	font-family: RF Krabuler;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 106px;
+	color: #000000;
+	transform:scale(0.9);
+	  }
+	 .logo {
+	 display: none;
+	}
+	  .img1 {
+	    position: absolute;
+			padding: 25% -20%;
+			margin: -58.4% 5%;
+	left: -164px;
+	transform:scale(0.9);
+	}
+
+	.img2 {
+		position: absolute;
+		padding: 25% -20%;
+		margin: -71.4% 5%;
+left: -264px;
+transform:scale(0.9);
+	}
+	  .img3 {
+			margin: -81% -14%;
+			padding: 10% 0%;
+			transform: scale(0.8);
+	  }
+	  .text3 {
+	position: absolute;
+	width: 21.15%;
+	height: 5.32%;
+	left: 1.78%;
+	top: 25%;
+	font-family: RF Krabuler;
+	font-size: 35px;
+	color: #000000;
+	display: none;
+	  }
+	  .img3:hover .text3{
+	    display: block;
+	  }
+	  .img7 {
+			margin: -46% 8%;
+			padding: 10% 0%;
+			transform: scale(0.8);
+	  }
+	  .text7 {
+	    position: absolute;
+	width: 41.3%;
+	height: 4.32%;
+	left: 27.8%;
+	top: 38.44%;
+	font-family: RF Krabuler;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: #FFFFFF;
+	display: none;
+	  }
+	  .img6 {
+			margin: -54.5% 20%;
+			padding: 10% 0%;
+			transform: scale(0.8);
+	  }
+	  .text6 {
+	    position: absolute;
+	width: 41.3%;
+	height: 4.32%;
+	left: 65.8%;
+	top: 100.4%;
+	font-family: RF Krabuler;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: #000000;
+	display: none;
+	  }
+	  .img6:hover .text6{
+	    display: block;
+	  }
+	  .img6:hover {
+	  filter:  sepia(10%) saturate(400%) hue-rotate(330deg);
+	  }
+	  .img4 {
+			margin: -63% 5%;
+			padding: 10% 0%;
+			transform: scale(0.8);
+	  }
+	  .text4 {
+	    position: absolute;
+	width: 41.6%;
+	height: 4.32%;
+	left: 51.8%;
+	top: 42.82%;
+	font-family: RF Krabuler;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: #FFFFFF;
+	display: none;
+	  }
+	  .img5 {
+			margin: -71% 8%;
+			padding: 10% 0%;
+			transform: scale(0.8);
+	  }
+	  .text5 {
+	    position: absolute;
+	width: 39.41%;
+	height: 4.32%;
+	left: 52.32%;
+	top: 90.79%;
+	font-family: RF Krabuler;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: #FFFFFF;
+	display: none;
+	  }
+	  .img8 {
+			margin: -38% 8%;
+ 		 padding: 10% 0%;
+ 		 transform: scale(0.8);
+	  }
+	  .text8 {
+	    position: absolute;
+	width: 21.15%;
+	height: 4.32%;
+	left: 8.5%;
+	top: 79.9%;
+	font-family: RF Krabuler;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	line-height: 42px;
+	color: #000000;
+	display: none;
+	  }
+
+	  .img9 {
+			margin: 5% 19.5%;
+			transform: scale(1.3);
+	  }
+	  .img10 {
+	margin: -20% -3%;
+	padding: 25% 0%;
+	transform: scale(0.8);
+	  }
+
+	.text10 {
+	  position: absolute;
+	width: 21.15%;
+	height: 4.32%;
+	left: 5.97%;
+	top: 73.09%;
+	font-family: RF Krabuler;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: #000000;
+	display: none;
+	}
+
+	  .img11 {
+			margin: -20% -3%;
+			padding: 13% 0%;
+			transform: scale(0.8);
+	  }
+	.text11 {
+	position: absolute;
+	width: 21.15%;
+	height: 4.32%;
+	left: 78.69%;
+	top: 110.09%;
+	font-family: RF Krabuler;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	display: none;
+	}
+	.img11:hover .text11{
+	  display: block;
+	}
+	.img11:hover {
+	filter:  sepia(20%) saturate(1000%) hue-rotate(100deg);
+	}
+	  .img12 {
+			margin: -25% -14%;
+			padding: 10% 0%;
+			transform: scale(0.8);
+	  }
+	  .text12 {
+	position: absolute;
+	width: 36.72%;
+	height: 2.85%;
+	left: 76.33%;
+	top: 124.88%;
+	font-family: RF Krabuler;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: #000000;
+	display: none;
+	  }
+
+	  .img13 {
+			margin: -33% -13%;
+			padding: 10% 0%;
+			transform: scale(0.8);
+	  }
+
+	  .text13 {
+	    position: absolute;
+	width: 40.12%;
+	height: 4.32%;
+	left: 32.23%;
+	top: 119.85%;
+	font-family: RF Krabuler;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: #FFFFFF;
+	display: none;
+	  }
+	  .img14 {
+			margin: -38% 8%;
+			padding: 10% 0%;
+			transform: scale(0.8);
+	  }
+		
+	  .text14 {
+	    position: absolute;
+	width: 19.96%;
+	height: 4.32%;
+	left: 11.76%;
+	top: 48.38%;
+	font-family: RF Krabuler;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: #000000;
+	display: none;
+	  }
+
+      }
+      @media (max-width: 375px) {
+      /*iphone*/
+
+			.txtmain {
+		 transform:scale(0.6);
+		 margin: -7% 65%;
+		  }
+		 .logo {
+		 display: none;
+		 }
+		  .img1 {
+		 	 position: absolute;
+		 	 padding: 25% -20%;
+		 	 margin: -370% -90%;
+		 left: -10px;
+		 transform:scale(0.6);
+		 }
+
+		 .img2 {
+		  position: absolute;
+		  padding: 25% -20%;
+		  margin: -280% 80%;
+		 left: -264px;
+		 transform:scale(0.6);
+		 }
+		  .img3 {
+		 	 margin: -525% 11%;
+		 	 padding: 10% 0%;
+		 	 transform: scale(0.6);
+		  }
+		  .text3 {
+		 position: absolute;
+		 width: 21.15%;
+		 height: 5.32%;
+		 left: 1.78%;
+		 top: 25%;
+		 font-family: RF Krabuler;
+		 font-size: 35px;
+		 color: #000000;
+		 display: none;
+		  }
+		  .img7 {
+		 	 margin: -320% 12%;
+		 	 padding: 10% 0%;
+		 	 transform: scale(0.6);
+		  }
+		  .text7 {
+		 	 position: absolute;
+		 width: 41.3%;
+		 height: 4.32%;
+		 left: 27.8%;
+		 top: 38.44%;
+		 font-family: RF Krabuler;
+		 font-style: normal;
+		 font-weight: normal;
+		 font-size: 35px;
+		 color: #FFFFFF;
+		 display: none;
+		  }
+		  .img6 {
+		 	 margin: -377% 71%;
+		 	 padding: 10% 0%;
+		 	 transform: scale(0.6);
+		  }
+		  .text6 {
+		 	 position: absolute;
+		 width: 41.3%;
+		 height: 4.32%;
+		 left: 65.8%;
+		 top: 100.4%;
+		 font-family: RF Krabuler;
+		 font-style: normal;
+		 font-weight: normal;
+		 font-size: 35px;
+		 color: #000000;
+		 display: none;
+		  }
+		  .img4 {
+		 	 margin: -431% -10%;
+		 	 padding: 10% 0%;
+		 	 transform: scale(0.6);
+		  }
+		  .text4 {
+		 	 position: absolute;
+		 width: 41.6%;
+		 height: 4.32%;
+		 left: 51.8%;
+		 top: 42.82%;
+		 font-family: RF Krabuler;
+		 font-style: normal;
+		 font-weight: normal;
+		 font-size: 35px;
+		 color: #FFFFFF;
+		 display: none;
+		  }
+		  .img5 {
+		 	 margin: -484% 22%;
+		 	 padding: 10% 0%;
+		 	 transform: scale(0.6);
+		  }
+		  .text5 {
+		 	 position: absolute;
+		 width: 39.41%;
+		 height: 4.32%;
+		 left: 52.32%;
+		 top: 90.79%;
+		 font-family: RF Krabuler;
+		 font-style: normal;
+		 font-weight: normal;
+		 font-size: 35px;
+		 color: #FFFFFF;
+		 display: none;
+		  }
+		  .img8 {
+		 	 margin: -240% 109%;
+		 	padding: 10% 0%;
+		 	transform: scale(0.6);
+		  }
+		  .text8 {
+		 	 position: absolute;
+		 width: 21.15%;
+		 height: 4.32%;
+		 left: 8.5%;
+		 top: 79.9%;
+		 font-family: RF Krabuler;
+		 font-style: normal;
+		 font-weight: normal;
+		 font-size: 35px;
+		 line-height: 42px;
+		 color: #000000;
+		 display: none;
+		  }
+
+		  .img9 {
+		 	 margin: 5% 19.5%;
+		 	 transform: scale(0.6);
+		  }
+		  .img10 {
+		 margin: -55% 39%;
+		 padding: 55% 15%;
+		 transform: scale(0.6);
+		  }
+
+		 .text10 {
+		  position: absolute;
+		 width: 21.15%;
+		 height: 4.32%;
+		 left: 5.97%;
+		 top: 73.09%;
+		 font-family: RF Krabuler;
+		 font-style: normal;
+		 font-weight: normal;
+		 font-size: 35px;
+		 color: #000000;
+		 display: none;
+		 }
+		  .img11 {
+		 	 margin: -85% 52%;
+		 	 padding: 13% 0%;
+		 	 transform: scale(0.6);
+		  }
+		 .text11 {
+		 position: absolute;
+		 width: 21.15%;
+		 height: 4.32%;
+		 left: 78.69%;
+		 top: 110.09%;
+		 font-family: RF Krabuler;
+		 font-style: normal;
+		 font-weight: normal;
+		 font-size: 35px;
+		 display: none;
+		 }
+
+		  .img12 {
+		 	 margin: -135% 3%;
+		 	 padding: 10% 0%;
+		 	 transform: scale(0.6);
+		  }
+		  .text12 {
+		 position: absolute;
+		 width: 36.72%;
+		 height: 2.85%;
+		 left: 76.33%;
+		 top: 124.88%;
+		 font-family: RF Krabuler;
+		 font-style: normal;
+		 font-weight: normal;
+		 font-size: 35px;
+		 color: #000000;
+		 display: none;
+		  }
+
+		  .img13 {
+		 	 margin: -190% 3%;
+		 	 padding: 10% 0%;
+		 	 transform: scale(0.6);
+		  }
+
+		  .text13 {
+		 	 position: absolute;
+		 width: 40.12%;
+		 height: 4.32%;
+		 left: 32.23%;
+		 top: 119.85%;
+		 font-family: RF Krabuler;
+		 font-style: normal;
+		 font-weight: normal;
+		 font-size: 30px;
+		 color: #FFFFFF;
+		 display: none;
+		  }
+		  .img14 {
+		 	 margin: -225% 105%;
+		 	 padding: 10% 0%;
+		 	 transform: scale(0.6);
+		  }
+		  .text14 {
+		 	 position: absolute;
+		 width: 19.96%;
+		 height: 4.32%;
+		 left: 11.76%;
+		 top: 48.38%;
+		 font-family: RF Krabuler;
+		 font-style: normal;
+		 font-weight: normal;
+		 font-size: 35px;
+		 color: #000000;
+		 display: none;
+		  }
