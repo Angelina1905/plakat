@@ -1,0 +1,362 @@
+
+  body {
+    position: absolute;
+    background-color: rgb(161, 42, 254);
+    box-sizing: border-box;
+    overflow-x: hidden;
+    display: block;
+    width: 100%;
+    max-width: 1680px;
+    margin: 0 auto;
+    height: 100%;
+  }
+  .txtmain {
+    position: absolute;
+width: 45%;
+height: 4.34%;
+left: 35.29%;
+top:10%;
+font-family: RF Krabuler;
+font-style: normal;
+font-weight: normal;
+font-size: 96px;
+color: #000000;
+
+  }
+ .logo {
+   position: absolute;
+ width: 16.25%;
+ height: 12%;
+ left: 5.9%;
+ top: 5.8%;
+ z-index: 1;
+}
+  .img1 {
+    position: absolute;
+width: 80.4%;
+/* height: 5800px; */
+}
+
+.img2 {
+  position: absolute;
+width: 130.11%;
+height: 232.49%;
+top: 63.22%;
+display: block;
+}
+  .img3 {
+    position: absolute;
+width: 85.77%;
+height: 19.13%;
+left: 17.06%;
+top: 635.47%;
+display: block;
+  }
+  .text3 {
+position: absolute;
+width: 21.15%;
+height: 5.32%;
+left: 1.78%;
+top: 25%;
+font-family: RF Krabuler;
+font-size: 35px;
+color: #000000;
+display: none;
+  }
+  .img3:hover .text3{
+    display: block;
+  }
+  .img3:hover {
+	filter:  sepia(20%) saturate(1000%) hue-rotate(50deg);
+	}
+  .img7 {
+    position: absolute;
+width: 85.4%;
+height: 42.15%;
+left: 17.97%;
+top: 377.44%;
+display: block;
+  }
+  .text7 {
+    position: absolute;
+width: 41.3%;
+height: 4.32%;
+left: 27.8%;
+top: 38.44%;
+font-family: RF Krabuler;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+color: #FFFFFF;
+display: none;
+  }
+  .img7:hover .text7{
+    display: block;
+  }
+  .img7:hover {
+  filter:  sepia(10%) saturate(100%) hue-rotate(290deg);
+  }
+
+  .img6 {
+position: absolute;
+width: 22.71%;
+height: 38.34%;
+left: 45.4%;
+top: 441.53%;
+display: block;
+  }
+  .text6 {
+    position: absolute;
+width: 41.3%;
+height: 4.32%;
+left: 65.8%;
+top: 100.4%;
+font-family: RF Krabuler;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+color: #000000;
+display: none;
+  }
+  .img6:hover .text6{
+    display: block;
+  }
+  .img6:hover {
+  filter:  sepia(10%) saturate(400%) hue-rotate(330deg);
+  }
+  .img4 {
+    position: absolute;
+width: 45.6%;
+height: 46.85%;
+left: 1.07%;
+top: 496.5%;
+display: block;
+  }
+  .text4 {
+    position: absolute;
+width: 41.6%;
+height: 4.32%;
+left: 51.8%;
+top: 42.82%;
+font-family: RF Krabuler;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+color: #FFFFFF;
+display: none;
+  }
+  .img4:hover .text4{
+    display: block;
+  }
+  .img4:hover {
+  filter:  sepia(20%) saturate(250%) hue-rotate(100deg);
+  }
+  .img5 {
+    position: absolute;
+width: 81.13%;
+height: 29.12%;
+left: 22.97%;
+top: 563.2%;
+  }
+  .img5:hover {
+	filter:  sepia(10%) saturate(1500%) hue-rotate(273deg);
+	}
+  .text5 {
+    position: absolute;
+width: 39.41%;
+height: 4.32%;
+left: 52.32%;
+top: 90.79%;
+font-family: RF Krabuler;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+color: #FFFFFF;
+display: none;
+  }
+  .img5:hover .text5{
+    display: block;
+  }
+  .img8 {
+    position: absolute;
+width: 33.5%;
+height: 33.9%;
+left: 69.40%;
+top: 282.48%;
+  }
+  .text8 {
+    position: absolute;
+width: 21.15%;
+height: 4.32%;
+left: 8.5%;
+top: 79.9%;
+font-family: RF Krabuler;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 42px;
+color: #000000;
+display: none;
+  }
+  .img8:hover .text8{
+    display: block;
+  }
+  .img8:hover {
+  filter:  sepia(30%) saturate(1000%) hue-rotate(29deg);
+  }
+
+
+  .img9 {
+    position: absolute;
+width: 13.82%;
+height: 15.28%;
+left: 80%;
+top: -2.26%;
+background: #3C2061;
+  }
+  .img10 {
+    position: absolute;
+width: 60.6%;
+height: 38.65%;
+left: 34.8%;
+top: 10.04%;
+  }
+  .img10:hover {
+	filter:  sepia(10%) saturate(2000%) hue-rotate(220deg);
+	}
+
+.text10 {
+  position: absolute;
+width: 21.15%;
+height: 4.32%;
+left: 5.97%;
+top: 73.09%;
+font-family: RF Krabuler;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+color: #000000;
+display: none;
+}
+.img10:hover .text10 {
+  display: block;
+}
+  .img11 {
+    position: absolute;
+width: 48.75%;
+height: 26.25%;
+left: 32.73%;
+top: 92.67%;
+  }
+.text11 {
+position: absolute;
+width: 21.15%;
+height: 4.32%;
+left: 78.69%;
+top: 110.09%;
+font-family: RF Krabuler;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+display: none;
+}
+.img11:hover .text11{
+  display: block;
+}
+.img11:hover {
+filter:  sepia(20%) saturate(1000%) hue-rotate(100deg);
+}
+  .img12 {
+position: absolute;
+width: 76.17%;
+height:25.97%;
+left: 6.73%;
+top: 148.92%;
+  }
+  .text12 {
+position: absolute;
+width: 36.72%;
+height: 2.85%;
+left: 76.33%;
+top: 124.88%;
+font-family: RF Krabuler;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+color: #000000;
+display: none;
+  }
+  .img12:hover .text12{
+    display: block;
+  }
+  .img12:hover {
+  filter:  sepia(289%) saturate(1000%) hue-rotate(15deg);
+  }
+  /* .img12:hover {
+  filter:  sepia(20%) saturate(170%) hue-rotate(680deg);
+  } */
+
+  .img13 {
+position: absolute;
+width: 62.23%;
+height: 31.95%;
+left: 5.35%;
+top: 203.82%;
+
+  }
+
+  .text13 {
+    position: absolute;
+width: 40.12%;
+height: 4.32%;
+left: 32.23%;
+top: 119.85%;
+font-family: RF Krabuler;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+color: #FFFFFF;
+display: none;
+  }
+  .img13:hover .text13{
+    display: block;
+}
+.img13:hover {
+filter:  sepia(10%) saturate(1000%) hue-rotate(240deg);
+}
+  .img14 {
+position: absolute;
+width: 35.47%;
+height: 10.29%;
+left: 67.38%;
+top: 253.2%;
+  }
+  .img14:hover {
+	filter:  sepia(20%) saturate(1000%) hue-rotate(300deg);
+	}
+  .text14 {
+    position: absolute;
+width: 19.96%;
+height: 4.32%;
+left: 11.76%;
+top: 48.38%;
+font-family: RF Krabuler;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+color: #000000;
+display: none;
+  }
+  .img14:hover .text14{
+    display: block;
+  }
+@font-face {
+	font-family: 'RF Krabuler';
+	src: url('../font/RFKrabuler-Regular.eot');
+	src: local('../font/RFKrabuler-Regular'),
+		url('../font/RFKrabuler-Regular.eot?#iefix') format('embedded-opentype'),
+		url('../font/RFKrabuler-Regular.woff') format('woff'),
+		url('../font/RFKrabuler-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
